@@ -1,0 +1,17 @@
+/* ------------------------- Body Text Rules */
+
+
+/* Pads the last section on the page to keep it free from the Footer */
+.bottom-section {
+    padding-bottom: 50px;
+}
+
+.page-link {
+    color: #C4C5C4;
+    text-decoration: none;
+}
+
+.page-link:hover,
+.social-links li a i:hover {
+    color: #fafafa;
+}
